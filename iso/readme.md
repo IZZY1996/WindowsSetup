@@ -1,10 +1,10 @@
-Contents of the Windows Server 2022 iso
+## Contents of the Windows Server 2022 iso
 
-📁 boot
-📁 efi
-📁 sources
-📁 support
-📝 autorun.inf
-📝 bootmgr
-📝 bootmgr.efi
-📝 setup.exe
+📁 boot <br />
+📁 efi <br />
+📁 sources <br />
+📁 support <br />
+📝 autorun.inf <br />
+📝 bootmgr <br />
+📝 bootmgr.efi <br />
+📝 setup.exe <br />
