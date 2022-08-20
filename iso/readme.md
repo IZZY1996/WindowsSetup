@@ -3,7 +3,9 @@
 📁 boot <br />
 📁 efi <br />
 &nbsp;&nbsp;&nbsp;📁 boot <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 bootx64.efi <br />
 &nbsp;&nbsp;&nbsp;📁 microsoft<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📁 boot <br/>
 📁 sources <br />
 📁 support <br />
 📝 autorun.inf `md5:1EE3BD713BAF8DA75ECD537F7E086EB8`<br />
