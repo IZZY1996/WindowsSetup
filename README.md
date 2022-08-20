@@ -9,6 +9,8 @@ fresh install no config changes comparison
 | Processes | 76 | 122 |
 | Installed Services | 115 | 207 |
 | Running Services| 57 | 84 |
+| Windows Features (Total) | 209 | 266 |
+| Windows Features installed | 11 | 12 (XPS Viewer) |
 
 ### Services
 | Service | DisplayName | Server 2022 | Server 2022 (Desktop Experience) |
